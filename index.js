@@ -55,6 +55,10 @@ const resume = {
         {
             Institution: 'Kahit ano Elementary School, Pasay City, Philippines',
             Description: "Elementary Diploma, 2012-2014"
+        },
+        {
+            Institution: 'Last Elementary School, Pasay City, Philippines',
+            Description: "Elementary Diploma, 2012-2014"
         }
     ],
     Personal_References: [
