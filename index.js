@@ -73,7 +73,7 @@ const resume = {
             Job_Title: 'Cybersecurity Analyst',
             Description: 'Conducted vulnerability assessments and penetration testing on client networks. Developed and implemented security policies to mitigate risks.',
             Start_Date: '2020',
-            End_Date: '2022'
+            End_Date: '2022'  
         },
         {
             Company: 'Global Marketing Agency',
