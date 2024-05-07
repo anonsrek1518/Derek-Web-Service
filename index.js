@@ -31,7 +31,7 @@ const resume = {
             Name: 'Cybersecurity Awareness Mentor',
         }
     ],
-    Education: [
+    Education: [ 
         {
             Institution: 'University of Southern Philippines Foundation (USPF), Cebu City, Philippines',
             Description: 'Bachelor of Science in Information Technology, Present, Expected Graduation: May 2025'
@@ -50,6 +50,10 @@ const resume = {
         },
         {
             Institution: 'Marcela Marcelo Elementary School, Pasay City, Philippines',
+            Description: "Elementary Diploma, 2012-2014"
+        },
+        {
+            Institution: 'Kahit ano Elementary School, Pasay City, Philippines',
             Description: "Elementary Diploma, 2012-2014"
         }
     ],
@@ -77,6 +81,13 @@ const resume = {
         },
         {
             Company: 'Global Marketing Agency',
+            Job_Title: 'Web Developer',
+            Description: 'Designed and developed responsive websites for clients using HTML, CSS, and JavaScript. Collaborated with design and marketing teams to create visually appealing interfaces.',
+            Start_Date: '2018',
+            End_Date: '2020'
+        },
+        {
+            Company: 'Kahit ano Agency',
             Job_Title: 'Web Developer',
             Description: 'Designed and developed responsive websites for clients using HTML, CSS, and JavaScript. Collaborated with design and marketing teams to create visually appealing interfaces.',
             Start_Date: '2018',
